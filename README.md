@@ -14,7 +14,7 @@ Repositori ini bertujuan untuk memberikan sumber daya tambahan bagi mereka yang 
 
 1. **Unduh Playlist**: Unduh playlist IPTV yang disediakan dalam repositori ini.
 
-2. **Gunakan Pemutar IPTV**: Gunakan pemutar IPTV yang kompatibel dengan format playlist untuk menikmati siaran TV dari playlist tersebut. Anda dapat menggunakan aplikasi pemutar IPTV seperti VLC Media Player atau aplikasi IPTV lainnya.
+2. **Gunakan Pemutar IPTV**: Gunakan pemutar IPTV yang kompatibel dengan format playlist untuk menikmati siaran TV dari playlist tersebut. Anda dapat menggunakan aplikasi pemutar IPTV seperti VLC Media Player atau aplikasi IPTV lainnya untuk smartphone dapat menggunakan OTT Navigator.
 
 3. **Eksplorasi**: Jelajahi berbagai saluran TV yang terdapat dalam playlist untuk memahami berbagai jenis konten yang dapat diakses melalui IPTV.
 
