@@ -12,11 +12,14 @@ Repositori ini bertujuan untuk memberikan sumber daya tambahan bagi mereka yang 
 
 ## Cara Menggunakan
 
-1. **Salin URL playlist IPTV dari repositori GitHub ini**: 'https://raw.githubusercontent.com/vntmtmp/playlistTV/main/release.m3u'
+1. **Salin URL playlist IPTV dari repositori GitHub ini**: 
+   ```bash
+     https://raw.githubusercontent.com/vntmtmp/playlistTV/main/release.m3u
+   ```
 
-2. **Gunakan Pemutar IPTV**: Gunakan pemutar IPTV yang kompatibel dengan format playlist untuk menikmati siaran TV dari playlist tersebut. Anda dapat menggunakan aplikasi pemutar IPTV seperti VLC Media Player atau aplikasi IPTV lainnya untuk smartphone dapat menggunakan OTT Navigator.
+3. **Gunakan Pemutar IPTV**: Gunakan pemutar IPTV yang kompatibel dengan format playlist untuk menikmati siaran TV dari playlist tersebut. Anda dapat menggunakan aplikasi pemutar IPTV seperti VLC Media Player atau aplikasi IPTV lainnya untuk smartphone dapat menggunakan OTT Navigator.
    
-3. **Eksplorasi**: Jelajahi berbagai saluran TV yang terdapat dalam playlist untuk memahami berbagai jenis konten yang dapat diakses melalui IPTV.
+4. **Eksplorasi**: Jelajahi berbagai saluran TV yang terdapat dalam playlist untuk memahami berbagai jenis konten yang dapat diakses melalui IPTV.
 
 ## Catatan Penting
 
